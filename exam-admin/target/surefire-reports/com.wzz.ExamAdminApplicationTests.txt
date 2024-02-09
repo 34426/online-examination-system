@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.wzz.ExamAdminApplicationTests
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.8 s - in com.wzz.ExamAdminApplicationTests
